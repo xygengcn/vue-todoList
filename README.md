@@ -2,6 +2,8 @@
 
 > A Vue.js demo
 
+![](demo.png)
+
 ## Build Setup
 
 ``` bash
